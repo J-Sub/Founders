@@ -1285,11 +1285,11 @@
       "events": {},
       "links": {},
       "address": "0xf2Bf753Ba683F16B00D39A6e60e09b18a8fb39Ff",
-      "transactionHash": "0xc222c129cb26ec816d1513fb08d431d4bf95853aa9f95681dda8e5ed3f2068ab"
+      "transactionHash": "0x8b62335a89e02f76eeb30038b9b4ef5bca5606c1241aa5b61f6f05248005e350"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-08-01T16:02:30.955Z",
+  "updatedAt": "2019-08-01T17:39:19.711Z",
   "devdoc": {
     "methods": {}
   },
